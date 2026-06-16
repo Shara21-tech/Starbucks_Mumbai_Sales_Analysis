@@ -1,84 +1,70 @@
-## **# Starbucks Mumbai Sales Analysis**
+# Starbucks Mumbai Sales Analysis
+
+## Project Overview
+End-to-end sales analysis of Starbucks Mumbai data using SQL and Power BI.
+
+## Tools Used
+- SQL
+- Power BI
+- Excel
+
+## Key KPIs
+- Total Revenue
+- Total Orders
+- Total Customers
+- Average Order Value
+
+## Dashboard Preview
+
+![Dashboard]
+# Starbucks Mumbai Sales Analysis
+
+## Project Overview
+End-to-end sales analysis of Starbucks Mumbai data using SQL and Power BI.
+
+## Tools Used
+- SQL
+- Power BI
+- Excel
+
+## Key KPIs
+- Total Revenue
+- Total Orders
+- Total Customers
+- Average Order Value
+
+## Dashboard Preview
+
+![Dashboard]
+<img width="1123" height="632" alt="Dashboard" src="https://github.com/user-attachments/assets/f7b66b9c-6235-4026-9c92-90798d2902d3" />
 
 
+## Business Insights
+1. Top-performing stores generated a significant share of total revenue.
+2. Coffee beverages were the most popular product category.
+3. Evening hours recorded peak customer traffic.
+4. Repeat customers contributed heavily to sales.
+5. Premium products delivered strong revenue performance.
 
-###### **## Project Overview**
+## Recommendations
+1. Focus on high-performing locations.
+2. Increase staffing during peak hours.
+3. Promote low-selling products.
+4. Strengthen loyalty programs.
+5. Expand premium product offerings.
+## Business Insights
+1. Top-performing stores generated a significant share of total revenue.
+2. Coffee beverages were the most popular product category.
+3. Evening hours recorded peak customer traffic.
+4. Repeat customers contributed heavily to sales.
+5. Premium products delivered strong revenue performance.
 
-
-
-**This project analyzes Starbucks Mumbai sales data using SQL and Power BI.**
-
-
-
-**The objective is to identify sales trends, customer behavior, product performance, and store-level insights to support business decision-making.**
-
-
-
-###### **## Tools Used**
-
-
-
-**- SQL**
-
-**- Power BI**
-
-**- Excel**
-
-
-
-###### **## Key KPIs**
-
-
-
-**- Total Revenue**
-
-**- Total Orders**
-
-**- Total Customers**
-
-**- Average Order Value**
-
-
-
-###### **## Business Insights**
-
-
-
-**1. Starbucks generated strong overall revenue across Mumbai outlets.**
-
-**2. Top-performing stores contributed a major share of sales.**
-
-**3. Coffee beverages were the most popular products.**
-
-**4. Evening hours recorded peak customer traffic.**
-
-**5. Repeat customers significantly contributed to revenue.**
-
-**6. Premium beverages generated strong sales value.**
-
-**7. Weekend sales exceeded weekday performance.**
-
-**8. Some product categories showed low demand.**
-
-
-
-###### **## Recommendations**
-
-
-
-**1. Replicate strategies from top-performing stores.**
-
-**2. Increase staffing during peak hours.**
-
-**3. Promote underperforming products.**
-
-**4. Strengthen loyalty programs.**
-
-**5. Focus marketing on premium beverages.**
-
-
-
-###### **## Dashboard Preview**
+## Recommendations
+1. Focus on high-performing locations.
+2. Increase staffing during peak hours.
+3. Promote low-selling products.
+4. Strengthen loyalty programs.
+5. Expand premium product offerings.
 
 
 
@@ -86,9 +72,6 @@
 
 
 
-###### **## Author**
-
-
-
+ **## Author**
 ###### **Shravani Pol**
 
